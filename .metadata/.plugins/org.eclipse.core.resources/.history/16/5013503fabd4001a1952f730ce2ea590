@@ -1,0 +1,10 @@
+package classpart;
+
+public class Student {
+	
+	//멤버변수 선언
+	int studentId;
+	String Name;
+	String address;
+
+}

@@ -1,0 +1,11 @@
+package classpart;
+
+public class Student {
+	
+	//멤버변수 선언
+	//public 접근제한자
+	public int studentId;
+	public String Name;
+	public String address;
+
+}

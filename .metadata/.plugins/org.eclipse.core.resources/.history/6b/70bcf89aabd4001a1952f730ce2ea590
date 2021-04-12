@@ -1,0 +1,17 @@
+package classpart;
+
+public class Student {
+	
+	//멤버변수 선언
+	//public 접근제한자
+	public int studentId;
+	public String name;
+	public String address;
+	
+	//메서드 선언
+	//학생정보를 보여준다
+	public void showStudentInfo() {
+		System.out.println(name + ", " + address);
+	}
+	
+}
